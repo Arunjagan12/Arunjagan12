@@ -1,9 +1,12 @@
-### Hi there 👋,I am Arun:smile:!!
+### Hi there 👋,I am Arun:smile:
 A <b>second-year</b> student in computer science and engineering. 
-<h2>A future developer, that's me.:v:</h2>.
+<h2>A <b>future developer</b>, that's me.:v:</h2>.
 :point_right:Interning at the Sparks Foundation, I did web development.:point_left:
-A few projects I worked on also helped me hone my coding abilities. 
-I'm now honing my skills in preparation for my ambition to become a <b>proficient programmer</b>.
+<ul>
+  
+  <li>A few projects I worked on also helped me hone my coding abilities. </li>
+<li>I'm now honing my skills in preparation for my ambition to become a <b>proficient programmer</b>.</li>
+  </ul>
 
 <!--
 **Arunjagan12/Arunjagan12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
