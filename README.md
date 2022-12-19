@@ -1,5 +1,6 @@
 ### Hi there 👋,I am Arun:smile:
 A <b>second-year</b> student in computer science and engineering. 
+<h3>Web Developer:man_technologist:</h3>
 <h2>A <b>future developer</b>, that's me.:v:</h2>.
 :point_right:Interning at the Sparks Foundation, I did web development.:point_left:
 <ul>
