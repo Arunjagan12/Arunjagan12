@@ -1,4 +1,4 @@
-### Hi there 👋,I am Arun:smile:
+### Hi there 👋,I am Arun:blush:
 A <b>second-year</b> student in computer science and engineering. 
 <h3>Front-End Developer:man_technologist:</h3>
 <h3>A <b>future developer</b>, that's me.:v:</h3>.
