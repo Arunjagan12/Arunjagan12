@@ -1,12 +1,12 @@
 ### Hi there 👋,I am Arun:smile:
 A <b>second-year</b> student in computer science and engineering. 
-<h3>Web Developer:man_technologist:</h3>
-<h2>A <b>future developer</b>, that's me.:v:</h2>.
-:point_right:Interning at the Sparks Foundation, I did web development.:point_left:
+<h3>Front-End Developer:man_technologist:</h3>
+<h3>A <b>future developer</b>, that's me.:v:</h3>.
 <ul>
-  
+  <li>Interning at the Sparks Foundation, I did web development.</li>
   <li>A few projects I worked on also helped me hone my coding abilities. </li>
-<li>I'm now honing my skills in preparation for my ambition to become a <b>proficient programmer</b>.</li>
+  <li>My ambition to become a <b>proficient programmer</b>.</li>
+  <li>I'm currently learning <b>react.js</b> to develop my skills to create a Good User Interface.
   </ul>
 
 <!--
