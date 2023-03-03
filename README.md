@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arunjagan12" alt="arunjagan12" /></a> </p>
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Vue.js**
 
-- 💬 Ask me about **html,css,javascript,python,c++,java**
+- 💬 Ask me about **html,css,javascript,react,python,c++,java**
 
 - 📫 How to reach me **https://www.linkedin.com/in/j-arun-b5827b229**
 
