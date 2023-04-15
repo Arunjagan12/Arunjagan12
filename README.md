@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Arun , a coding sorcerer with a passion towards web and app development 👨‍💻 </div>  
+### <div align="center">I'm Arun , a Coding sorcerer with a passion towards web and app development 👨‍💻 </div>  
   
 
 - 🔭 I’m currently working on [IHR website](https://github.com/Arunjagan12/ihr-website)  
