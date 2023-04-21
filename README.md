@@ -89,9 +89,10 @@
 
  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arunjagan12&show_icons=true&locale=en&layout=compact" alt="arunjagan12" /></p> 
+ 
 
 <div align="center">
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arunjagan12&show_icons=true&locale=en&layout=compact" alt="arunjagan12" /></p>
 <img src="https://komarev.com/ghpvc/?username=Arunjagan12&&style=flat-square" align="center" />
 </div>  
   
