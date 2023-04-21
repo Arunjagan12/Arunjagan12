@@ -89,7 +89,7 @@
 
  
 
- <div align="left">
+ <div align="center">
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arunjagan12&show_icons=true&locale=en&layout=compact" alt="arunjagan12" /></p>
   </div>
 
